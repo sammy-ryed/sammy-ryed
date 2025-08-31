@@ -68,4 +68,4 @@ Aspiring Software Engineer | B.Tech CSE @ SRMIST (2028) | Passionate about Probl
 
 ---
 
-*["Everything at once"](https://www.youtube.com/watch?v=eE9tV1WGTgE)*  
+*"[Everything at once](https://www.youtube.com/watch?v=eE9tV1WGTgE)"*  
