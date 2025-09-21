@@ -39,7 +39,12 @@ Aspiring Software Engineer | B.Tech CSE @ SRMIST (2028) | Passionate about Probl
 
 ### [Indian Roulette(Number Guessing Game)](https://github.com/sammy-ryed/Indian-Roulette)
 - Python-based CLI game with difficulty levels  
-- **Feedback loop & attempt tracking** for an engaging experience  
+- **Feedback loop & attempt tracking** for an engaging experience
+
+### [Bhandi](https://github.com/sammy-ryed/Bhandi)
+- HTML, CSS, Javascript game inspired by flappy bird.
+- Cool new features like power-up tokens and trippy music
+- Play it [here](https://bhandi.vercel.app/)
 
 ---
 
