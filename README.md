@@ -46,6 +46,10 @@ Aspiring Software Engineer | B.Tech CSE @ SRMIST (2028) | Passionate about Probl
 - Cool new features like power-up tokens and trippy music
 - Play it [here](https://bhandi.vercel.app/)
 
+### [BurstTime Chronicles](https://github.com/sammy-ryed/BurstTime-Chronicles)  
+- A fun **CPU Scheduling Simulator** built with **Python (Tkinter + sv-ttk)**.  
+- Visualizes **FCFS**, **SJF**, and **Round Robin** with sleek UI and dynamic process flow. 
+
 ---
 
 ## GitHub Stats  
