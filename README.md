@@ -52,6 +52,16 @@ Aspiring Software Engineer | B.Tech CSE @ SRMIST (2028) | Passionate about Probl
 
 ---
 
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</div>
+
+
+---
+
 ## GitHub Stats  
 
 ![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammy-ryed&show_icons=true&theme=tokyonight)  
@@ -60,7 +70,21 @@ Aspiring Software Engineer | B.Tech CSE @ SRMIST (2028) | Passionate about Probl
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sammy-ryed&theme=tokyonight)  
 
+
+
 ---
+
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=perfectking321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultipleLang" alt="Trophies" />
+</div>
+
+
+
+---
+
 
 ## Courses  
 - **Cybersecurity & Ethical Hacking (Udemy)** – Basics of penetration testing & secure coding  
