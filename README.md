@@ -71,7 +71,7 @@ sometimes they get CPU time. visualises FCFS, SJF, Round Robin with a slick UI.
 
 &nbsp;
 
-**Bhandi** — [repo](https://github.com/sammy-ryed/Bhandi) · [play it and lose 2 hours](https://bhandi.vercel.app/)
+**Bhandi** — [repo](https://github.com/sammy-ryed/Bhandi) · [play it and lose 2 hours](https://bhandi.netlify.app/)
 
 flappy bird. in a browser. from scratch. bhandi means "that container you throw all your random stuff into."
 that's the entire explanation. custom physics. power-ups. trippy music. dignity not included.
